@@ -1,3 +1,19 @@
 build
 mx.scratch
 !.settings
+
+
+# Build outputs
+Debug/
+Release/
+
+# Temporary files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+
+# macOS
+.DS_Store
